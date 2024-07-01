@@ -1,7 +1,7 @@
 ---
-title: Hello, Valaxy!
-date: 2022-04-01
-updated: 2022-04-01
+title: 小生桥生/沈泽
+date: 2018-12-14
+updated: 2018-12-14
 categories: Valaxy 笔记
 tags:
   - valaxy
@@ -9,12 +9,4 @@ tags:
 top: 1
 ---
 
-## Valaxy
-
-Next Generation Static Blog Framework.
-
-Write your first post!
-
-## Usage
-
-Modify `valaxy.config.ts` to custom your blog.
+小生桥生/沈泽，小飞侠走微博花镜Hekki 或Lofter·花镜，幸安。
