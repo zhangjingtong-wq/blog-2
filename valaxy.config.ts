@@ -10,17 +10,20 @@ const safelist = [
  * User Config
  */
 export default defineValaxyConfig<UserThemeConfig>({
+
   // site config see site.config.ts
 
   theme: 'sakura',
 
   themeConfig: {
-    banner: {
-      enable: true,
-      title: '花镜 ',
-      cloud: {
-        enable: true,
-      },
+    banner:{
+
+      title: 'Hello, sakura',
+      motto: '带回去 藏起来',
+      urls: [
+
+      ],
+
     },
 
     pages: [
