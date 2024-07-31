@@ -1,7 +1,7 @@
 ---
-title: 挂人
-date: 2018-12-14
-updated: 2018-12-14
+title: 野人
+date: 2020-02-27
+updated: 2020-2-17
 categories: Valaxy 笔记
 tags:
   - valaxy
