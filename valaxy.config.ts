@@ -18,7 +18,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner:{
 
-      title: 'Hello, sakura',
+      title: '镜花',
       motto: '带回去 藏起来',
       urls: [
 
